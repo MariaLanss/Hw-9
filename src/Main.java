@@ -67,4 +67,5 @@ public class Main {
         reverseFullName[10] = 'n';
         System.out.println(reverseFullName);
     }
+
 }
